@@ -1,1 +1,3 @@
 crud_sqlalchemy
+.vscode
+__pycache__
